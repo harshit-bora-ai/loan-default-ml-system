@@ -1,5 +1,5 @@
 # Loan Default Prediction System
-
+This API predicts whether a loan applicant is likely to default based on financial features.
 An end-to-end Machine Learning project that predicts loan default risk using a Logistic Regression model and exposes predictions via a Flask API.
 
 ## Features
